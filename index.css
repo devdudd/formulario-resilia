@@ -1,0 +1,52 @@
+body {
+    background-image: url("bg.jpg");
+    background-size: 100%;
+    justify-content: center;
+}
+h1 {
+    text-align: center;
+    font-family: 'Varela Round', sans-serif;
+    color: #000000;
+    font-size: 20px;
+    margin-top: 40px;
+}
+#corpo {
+    background-color: #ffffff;
+    border-radius: 10px;
+    text-align: center;
+    width: 600px;
+    margin-left: 325px;  
+}
+h2 {
+    text-align: center;
+    font-family: 'Varela Round', sans-serif;
+    margin-top: 60px;
+    padding-top: 30px;
+    padding-bottom: 25px;
+}
+.descricao {
+    text-align: center;
+    font-family: 'Varela Round', sans-serif;
+    padding-bottom: 30px;
+}
+fieldset {
+    border: 0;
+}
+.campo {
+    font-family: 'Varela Round', sans-serif;   
+    font-size: 15px;
+    margin-bottom: 25px;
+}
+input, textarea {
+    border-radius: 5px;
+    background-color: #ffffff;
+    border-color: #ececec;
+}
+button {
+    border-radius: 5px;
+    font-family: 'Varela Round', sans-serif;
+    background-color: #fbcc06;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    font-size: 20px;
+}
